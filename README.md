@@ -1,3 +1,5 @@
+
+nice
 # Programme de test pour le Premier TP
 ## Comment lancer les tests:
 
